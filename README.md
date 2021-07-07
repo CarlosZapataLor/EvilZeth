@@ -21,7 +21,6 @@
 </br>
 
 ### - Aprendiendo :
-</br>
 - ✅ Porgramación Web.
 </br>
 - ✅ Programación Móvil.
@@ -30,8 +29,6 @@
 
 
 ### - Hobbies : 
-</br>
-</br>
 - 🎮 Jugar Video Juegos
 </br>
 - 👾 Ver Anime
