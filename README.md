@@ -25,7 +25,10 @@
 - ✅ Porgramación Web.
 - ✅ Programación Móvil.
 </br>
+</br>
 ### - Hobbies : 
+</br>
+</br>
 - 🎮 Jugar Video Juegos
 - 👾 Ver Anime
 - 🧐 Leer Manhwa
