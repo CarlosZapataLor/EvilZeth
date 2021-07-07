@@ -14,13 +14,14 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/tecleo.gif?raw=true">
 
 - Mi Nombre es Carlos Zapata.
-- Soy egresado de la Ingenieria en Sistemas Computacionales.
-<br/>
+- Soy egresado de la Ingeniería en Sistemas Computacionales.
+</br>
 
 ### - Aprendiendo :
+</br>
 - ✅ Porgramación Web.
 - ✅ Programación Móvil.
-
+</br>
 ### - Hobbies : 
 - 🎮 Jugar Video Juegos
 - 👾 Ver Anime
@@ -30,10 +31,10 @@
 </br>
 </br>
 </br>
-
-
-
 # Lenguajes y Herramientas que Deseo Dominar 👨‍💻 🛠:
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/optimizando1.gif?raw=true">
+
 </br>
 
 <p align="center">
