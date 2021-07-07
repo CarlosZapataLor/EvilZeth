@@ -31,7 +31,9 @@
 </br>
 </br>
 </br>
+
 # Lenguajes y Herramientas que Deseo Dominar 👨‍💻 🛠:
+</br>
 
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/optimizando1.gif?raw=true">
 
