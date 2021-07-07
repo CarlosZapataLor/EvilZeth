@@ -23,14 +23,19 @@
 ### - Aprendiendo :
 </br>
 - ✅ Porgramación Web.
+</br>
 - ✅ Programación Móvil.
 </br>
 </br>
+
+
 ### - Hobbies : 
 </br>
 </br>
 - 🎮 Jugar Video Juegos
+</br>
 - 👾 Ver Anime
+</br>
 - 🧐 Leer Manhwa
 - 📘 Amante del libro "Los Ojos de mi Princesa"
 
