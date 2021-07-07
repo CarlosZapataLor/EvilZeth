@@ -33,6 +33,8 @@
 
 # Deseo Dominar 👨‍💻 🛠:
 
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/optimizando1.gif?raw=true">
+
 ### - Lenguajes :
 
 ### - Herramientas :
@@ -41,7 +43,7 @@
 </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/optimizando1.gif?raw=true">
+
 
 </br>
 
