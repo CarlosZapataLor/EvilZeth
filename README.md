@@ -4,10 +4,7 @@
 <img hight="300" width="700" alt="img" align="center" src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/banner/evilzeth.png?raw=true">
 </div>
 
-</br>
-</br>
-</br>
-
+<br>
 
 # Sobre Mí 💬 :
 
@@ -15,12 +12,15 @@
 
 - Mi Nombre es Carlos Zapata.
 - Soy egresado de la Ingeniería en Sistemas Computacionales.
-</br>
+
+<br>
 
 ### - Aprendiendo :
 - ✅ Porgramación Web.
 - ✅ Programación Móvil.
-</br>
+
+
+<br>
 
 
 ### - Hobbies : 
@@ -29,54 +29,82 @@
 - 🧐 Leer Manhwa.
 - 📘 Amante del libro "Los Ojos de mi Princesa".
 
-</br>
+<br>
 
-# Deseo Dominar 👨‍💻 🛠:
+# Conocimiento Básico 👨‍💻 🛠:
+<br>
+Algún día los dominaré de manera profesional
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/optimizando1.gif?raw=true">
+<br>
+<br>
+<table align="center">
+<tbody>
+ <tr>
+<td align="center" width="126px">
+<img height=100px src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/icons/php%20Flat%20Icons.png?raw=true"> 
+</td>
 
-### - Lenguajes :
+<td align="center" width="126px">
+<img height=100px src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/icons/javascript%20Flat%20Icons.png?raw=true"> 
+</td>
+  
+ 
 
-- <img hight="100" width="50" align="right" alt="GIF" src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/icons/css.png?raw=true">
-
-### - Herramientas :
-
-### - Frameworks :
-</br>
-
+<td align="center" width="126px">
+<img height=100px src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/icons/java.png?raw=true"> 
+</td>
+</tr>
+ 
 
 
+<tr>
+<td align="center" width="126px">
+<img height=100px src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/icons/html.png?raw=true"> 
+</td>
 
-</br>
+<td align="center" width="126px">
+<img height=100px src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/icons/css.png?raw=true"> 
+</td>
 
-<p align="center">
+<td align="center" width="126px">
+<img height=100px src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/icons/laravel.png?raw=true"> 
+</td>
+</tr>
+ 
+<tr>
+<td align="center" width="126px">
+<img height=100px src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/icons/vsc.png?raw=true"> 
+</td>
+
+<td align="center" width="126px">
+<img height=100px src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/icons/HS.png?raw=true"> 
+</td>
+
+
+
+<td align="center" width="126px">
+<img height=100px src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/icons/GIT.png?raw=true"> 
+</td>
+</tr>
+
+
+</tbody>
+</table>
+
+<br>
+
+
 
 
  
- 
- 
- 
-</p>
-</br>
-</br>
-</br>
 
-
-
-# Contactos :
-
-<p>
- </br>
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 *************
