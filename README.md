@@ -19,14 +19,10 @@
 
 </br>
 </br>
-</br>
-</br>
-
 
 ### - Aprendiendo :
 - ✅ Porgramación Web.
 - ✅ Programación Móvil.
-
 
 </br>
 </br>
