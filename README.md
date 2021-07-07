@@ -13,8 +13,6 @@
 
 ### - Mi Nombre es Carlos Zapata soy egresado de la Ingenieria en Sistemas Computacionales.
 
-<img hight="400" width="500" alt="img" align="right" src="#">
-
 ### - Aprendiendo :
 - ✅ Porgramación Web.
 - ✅ Programación Móvil.
@@ -36,7 +34,6 @@
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
  
  
