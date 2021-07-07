@@ -11,7 +11,7 @@
 
 # Sobre Mí 💬 :
 
-<img hight="200" width="250" alt="GIF" align="right" src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/tecleo.gif?raw=true">
+<img hight="320" width="450" alt="GIF" align="right" src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/tecleo.gif?raw=true">
 
 - Mi Nombre es Carlos Zapata.
 - Soy egresado de la Ingeniería en Sistemas Computacionales.
