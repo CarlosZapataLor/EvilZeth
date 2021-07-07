@@ -16,14 +16,14 @@
 <img hight="400" width="500" alt="img" align="right" src="#">
 
 ### - Aprendiendo :
-- ✨ Porgramación Web.
-- ✨ Programación Móvil.
+- ✅ Porgramación Web.
+- ✅ Programación Móvil.
 
 ### - Hobbies : 
-- ✨ Jugar Video Juegos
-- ✨ Ver Anime
-- ✨ Leer Manhwa
-- ✨ Amante del libro "Los Ojos de mi Princesa"
+- 🎮 Jugar Video Juegos
+- 👾 Ver Anime
+- 🧐 Leer Manhwa
+- 📘 Amante del libro "Los Ojos de mi Princesa"
 
 </br>
 </br>
@@ -31,7 +31,7 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Lenguajes y Herramientas que Deseo Dominar 👨‍💻 🛠:
 </br>
 
 <p align="center">
@@ -49,7 +49,7 @@
 
 
 
-#  :
+# Contactos :
 
 <p>
  </br>
