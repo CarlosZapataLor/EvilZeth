@@ -1,4 +1,4 @@
-# Hola Mundo, Soy EvilZeth! 👋
+# Hola Mundo! 👋
 
 <div align="center">
 <img hight="300" width="700" alt="img" align="center" src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/Carlos%20Zapata.png?raw=true">
