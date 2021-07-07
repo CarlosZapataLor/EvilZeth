@@ -15,17 +15,13 @@
 
 - Mi Nombre es Carlos Zapata.
 - Soy egresado de la Ingeniería en Sistemas Computacionales.
-
-
-</br>
 </br>
 
 ### - Aprendiendo :
 - ✅ Porgramación Web.
 - ✅ Programación Móvil.
+</br>
 
-</br>
-</br>
 
 ### - Hobbies : 
 - 🎮 Jugar Video Juegos.
@@ -33,8 +29,6 @@
 - 🧐 Leer Manhwa.
 - 📘 Amante del libro "Los Ojos de mi Princesa".
 
-
-</br>
 </br>
 
 # Lenguajes y Herramientas que Deseo Dominar 👨‍💻 🛠:
