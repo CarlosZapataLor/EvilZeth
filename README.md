@@ -10,23 +10,34 @@
 
 
 # Sobre Mí 💬 :
-</br>
 
-<img hight="200" width="400" alt="GIF" align="right" src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/tecleo.gif?raw=true">
-</br>
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/tecleo.gif?raw=true">
 
 - Mi Nombre es Carlos Zapata.
 - Soy egresado de la Ingeniería en Sistemas Computacionales.
+
+
 </br>
+</br>
+</br>
+</br>
+
+
 ### - Aprendiendo :
 - ✅ Porgramación Web.
 - ✅ Programación Móvil.
+
+
 </br>
+</br>
+
 ### - Hobbies : 
-- 🎮 Jugar Video Juegos
-- 👾 Ver Anime
-- 🧐 Leer Manhwa
-- 📘 Amante del libro "Los Ojos de mi Princesa"
+- 🎮 Jugar Video Juegos.
+- 👾 Ver Anime.
+- 🧐 Leer Manhwa.
+- 📘 Amante del libro "Los Ojos de mi Princesa".
+
+
 </br>
 </br>
 
