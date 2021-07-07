@@ -37,6 +37,8 @@
 
 ### - Lenguajes :
 
+- <img hight="100" width="50" align="right" alt="GIF" src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/icons/css.png?raw=true">
+
 ### - Herramientas :
 
 ### - Frameworks :
