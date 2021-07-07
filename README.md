@@ -11,10 +11,9 @@
 
 # Sobre Mí 💬 :
 
-Mi Nombre es Carlos Zapata soy egresado de la Ingenieria en Sistemas Computacionales del ITSX.
+- Mi Nombre es Carlos Zapata.
+- Soy egresado de la Ingenieria en Sistemas Computacionales.
 <br/>
-Siento que salí de la carrera de milagro, por lo que, me la paso intentando capacitarme en cada curso gratuito que encuentro referentes
-al desarrollo web.
 
 ### - Aprendiendo :
 - ✅ Porgramación Web.
