@@ -1,7 +1,7 @@
 # Hola Mundo, Soy EvilZeth! 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="#">
+<img hight="300" width="700" alt="img" align="center" src="#">
 </div>
 
 </br>
@@ -11,9 +11,9 @@
 
 # Sobre Mí 💬 :
 
-### - Mi nombre es Carlos Zapata soy egresado de la Ingenieria en sistemas computacionales del ITSX.
+### - Mi Nombre es Carlos Zapata soy egresado de la Ingenieria en Sistemas Computacionales.
 
-<img hight="400" width="500" alt="GIF" align="right" src="#">
+<img hight="400" width="500" alt="img" align="right" src="#">
 
 ### - Aprendiendo :
 - ✨ Porgramación Web.
@@ -93,12 +93,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
 
 *************
