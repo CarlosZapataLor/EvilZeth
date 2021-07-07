@@ -1,7 +1,7 @@
 # Hola Mundo! 👋
 
 <div align="center">
-<img hight="300" width="700" alt="img" align="center" src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/Carlos%20Zapata.png?raw=true">
+<img hight="300" width="700" alt="img" align="center" src="https://github.com/EvilZeth/EvilZeth/blob/main/assets/banner/evilzeth.png?raw=true">
 </div>
 
 </br>
